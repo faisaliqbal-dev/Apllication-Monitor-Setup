@@ -83,7 +83,7 @@ cd node_exporter
 node exporter will be ruuning on port number 9100
 
 
-# verify
+verify
 
 curl http://ec2ip:9100/metrics
 
